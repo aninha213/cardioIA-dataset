@@ -52,7 +52,7 @@ Esses materiais podem ser utilizados em tarefas de Processamento de Linguagem Na
 
 As imagens de exames cardíacos estão disponíveis no link abaixo:
 
-(Link Google Drive)
+(https://drive.google.com/drive/folders/1gg2nOFObGOctVPytnBKG67_wIHs09mdt?usp=sharing)
 
 Essas imagens podem ser utilizadas para projetos de Visão Computacional voltados à detecção de padrões e anomalias em exames cardíacos.
 
