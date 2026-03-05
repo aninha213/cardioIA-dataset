@@ -1,75 +1,99 @@
-# cardioIA-dataset
-Dataset Multimodal para Inteligência Artificial em Cardiologia
+CardioIA Dataset
 
+Dataset Multimodal para Inteligência Artificial em Saúde
 
-# CardioIA Dataset
-Dataset Multimodal para Inteligência Artificial em Cardiologia
+📌 Objetivo
 
-## 📌 Objetivo
+Este repositório reúne um conjunto de dados multimodal voltado para o estudo e desenvolvimento de soluções de Inteligência Artificial aplicadas à área da saúde.
 
-Este repositório reúne um conjunto de dados multimodal voltado para o estudo e desenvolvimento de soluções de Inteligência Artificial aplicadas à cardiologia.
+O projeto faz parte da atividade CardioIA, cujo objetivo é construir a base de dados para futuras aplicações de Machine Learning, Processamento de Linguagem Natural (NLP) e Visão Computacional.
 
-O dataset contém:
+O dataset contém três tipos de dados:
 
-- Dados estruturados de pacientes
-- Textos médicos relacionados a doenças cardíacas
-- Imagens de exames cardíacos
+Dados estruturados de pacientes
 
-Esses dados podem ser utilizados para aplicações de Machine Learning, NLP e Visão Computacional.
+Textos médicos relacionados à saúde
 
----
+Imagens médicas de exames de raio-x
 
-## 📊 Dataset Estruturado
+Esses dados poderão ser utilizados em etapas futuras para treinamento de modelos de IA, análise de padrões clínicos e desenvolvimento de sistemas inteligentes para apoio médico.
 
-O arquivo `pacientes.csv` contém informações de pacientes relacionadas à saúde cardiovascular.
+📊 Dataset Estruturado
 
-### Variáveis presentes:
+O arquivo pacientes.csv contém informações simuladas de pacientes relacionadas à saúde cardiovascular.
 
-- Idade
-- Sexo
-- Pressão arterial
-- Colesterol
-- Frequência cardíaca
-- Histórico de doença cardíaca
+Variáveis presentes
 
-Esses dados podem ser utilizados para treinar modelos preditivos de risco cardiovascular.
+Idade
 
----
+Sexo
 
-## 📄 Textos Médicos
+Pressão arterial
 
-Na pasta `docs/` estão disponíveis textos relacionados a doenças cardíacas.
+Colesterol
 
-Esses materiais podem ser utilizados em tarefas de Processamento de Linguagem Natural (NLP), como:
+Frequência cardíaca
 
-- classificação de textos médicos
-- extração de sintomas
-- análise de conteúdo clínico
+Histórico de doença cardíaca
 
----
+Essas variáveis são frequentemente utilizadas em estudos médicos e podem ajudar na construção de modelos preditivos de risco cardiovascular, permitindo identificar possíveis fatores associados a doenças cardíacas.
 
-## 🖼 Imagens Médicas
+Os dados foram organizados de forma estruturada para facilitar análises estatísticas e treinamento de algoritmos de Machine Learning.
 
-As imagens de exames cardíacos estão disponíveis no link abaixo:
+📄 Textos Médicos
 
-(https://drive.google.com/drive/folders/1gg2nOFObGOctVPytnBKG67_wIHs09mdt?usp=sharing)
+Na pasta docs/ estão disponíveis textos relacionados à saúde cardiovascular e doenças cardíacas.
 
-Essas imagens podem ser utilizadas para projetos de Visão Computacional voltados à detecção de padrões e anomalias em exames cardíacos.
+Esses textos podem ser explorados utilizando técnicas de Processamento de Linguagem Natural (NLP), como por exemplo:
 
----
+extração automática de sintomas mencionados em textos médicos
 
-## 🧠 Tecnologias Relacionadas
+classificação de documentos clínicos
 
-Este dataset pode ser utilizado com:
+identificação de palavras-chave relacionadas a doenças
 
-- Python
-- Machine Learning
-- Processamento de Linguagem Natural (NLP)
-- Visão Computacional
+análise de conteúdo médico
 
----
+Esse tipo de análise pode ser útil para desenvolver sistemas que auxiliem profissionais da saúde na interpretação de grandes volumes de textos clínicos ou científicos.
 
-## 👩‍💻 Autora
+🖼 Imagens Médicas
+
+As imagens utilizadas neste projeto são raios-x de pulmão contendo casos de pneumonia.
+
+Link para acesso às imagens:
+
+https://drive.google.com/drive/folders/1gg2nOFObGOctVPytnBKG67_wIHs09mdt?usp=sharing
+
+Essas imagens podem ser utilizadas em projetos de Visão Computacional, permitindo que algoritmos aprendam a identificar padrões visuais presentes em exames médicos.
+
+Algumas aplicações possíveis incluem:
+
+detecção de padrões anormais em exames de imagem
+
+identificação de sinais de doenças respiratórias
+
+classificação automática de exames médicos
+
+Mesmo não sendo imagens diretamente do coração, exames de tórax são frequentemente utilizados em medicina para análise geral da região torácica e podem contribuir para o desenvolvimento de sistemas de apoio ao diagnóstico médico.
+
+🧠 Tecnologias Relacionadas
+
+Este dataset pode ser utilizado em projetos envolvendo:
+
+Python
+
+Machine Learning
+
+Processamento de Linguagem Natural (NLP)
+
+Visão Computacional
+
+Ciência de Dados em Saúde
+
+👩‍💻 Autora
+
+Ana Carolina Belchior Cavallini
+FIAP – Tecnólogo em Inteligência Artificial
 
 Ana Carolina Belchior Cavallini  
 FIAP – Tecnólogo em Inteligência Artificial
