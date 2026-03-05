@@ -1,2 +1,9 @@
-A hipertensão arterial é um fator de risco importante para doenças cardíacas.
-O acompanhamento médico regular é essencial para prevenção.
+A saúde cardiovascular é fundamental para o funcionamento adequado do organismo. O coração é responsável por bombear o sangue para todo o corpo, transportando oxigênio e nutrientes essenciais para as células.
+
+Exames cardiológicos são importantes para detectar possíveis problemas no coração. Entre os exames mais comuns estão o eletrocardiograma (ECG), o ecocardiograma e o teste ergométrico.
+
+O eletrocardiograma registra a atividade elétrica do coração e pode identificar arritmias, alterações no ritmo cardíaco e sinais de infarto. Já o ecocardiograma utiliza ultrassom para visualizar as estruturas do coração e avaliar seu funcionamento.
+
+Nos últimos anos, a inteligência artificial tem sido aplicada na análise de exames cardíacos. Algoritmos de aprendizado de máquina conseguem identificar padrões em grandes volumes de dados médicos, auxiliando médicos no diagnóstico e na tomada de decisão clínica.
+
+Essas tecnologias podem contribuir para diagnósticos mais rápidos, monitoramento remoto de pacientes e desenvolvimento de sistemas inteligentes de prevenção de doenças cardiovasculares.
